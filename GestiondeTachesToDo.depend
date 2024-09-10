@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1725979528 source:c:\users\ycode\desktop\projet gestion de tâches todo\gestiondetachestodo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
